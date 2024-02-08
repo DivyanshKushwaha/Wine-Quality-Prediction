@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/a2a2f9890443487184b00bcb22d62c77/artifacts
+end_time: 1707370141881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2a2f9890443487184b00bcb22d62c77
+run_name: gaudy-mink-262
+run_uuid: a2a2f9890443487184b00bcb22d62c77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707370133317
+status: 3
+tags: []
+user_id: jatin
