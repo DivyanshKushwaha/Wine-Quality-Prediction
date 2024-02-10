@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/d273127c68ea4b9698da7bc8e6287b84/artifacts
+end_time: 1707544590438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d273127c68ea4b9698da7bc8e6287b84
+run_name: adventurous-mole-606
+run_uuid: d273127c68ea4b9698da7bc8e6287b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707544584140
+status: 3
+tags: []
+user_id: jatin
