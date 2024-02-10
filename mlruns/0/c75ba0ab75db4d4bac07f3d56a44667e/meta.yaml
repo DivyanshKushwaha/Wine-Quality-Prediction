@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/c75ba0ab75db4d4bac07f3d56a44667e/artifacts
+end_time: 1707545163001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c75ba0ab75db4d4bac07f3d56a44667e
+run_name: funny-quail-266
+run_uuid: c75ba0ab75db4d4bac07f3d56a44667e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707545157832
+status: 3
+tags: []
+user_id: jatin
