@@ -21,7 +21,7 @@ This repository contains a machine learning project for predicting the quality o
 
  The Dataset is available on : 
 
-                       https://github.com/DivyanshKushwaha/datasets/blob/master/winequality-data.zip)
+                       https://github.com/DivyanshKushwaha/datasets/blob/master/winequality-data.zip
 
 This dataset have 11 features :
   - fixed acidity
