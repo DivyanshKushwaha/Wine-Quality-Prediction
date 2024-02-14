@@ -97,38 +97,58 @@ This project is organized as follows:
 
 ## Getting started
  To get started with this project, follow these steps:
+
+  - Create an envoirement 'projectml' using the following command 
+
+         conda create -n projectml python=3.10
+
+  - Activate the envoirement using the following command:
+
+         conda activate projectml
+ 
  
 
-Clone the repository to your local machine using the following command:
-git clone https://github.com/rachitdani/Breast-Cancer-Prediction.git
-Navigate to the project directory:
-cd Breast-Cancer-Prediction
-Install the required dependencies using pip:
-pip install -r requirements.txt
-Run the Flask application:
-python application.py
-Open your web browser and go to
-http://127.0.0.1:5001/ - to access the home page
+  - Clone the repostiory to your local machine using the following command:
 
-http://127.0.0.1:5001/predict - to perform prediction on the Breast Cancer Prediction web application.
+         git clone https://github.com/DivyanshKushwaha/Wine-Quality-Prediction.git
+ 
+  - Navigate to the project directory:
 
-Usage
-Once you have the web application running, you can use it to predict the occurence of breast cancer based on the input features. Simply provide the required information, and the application will provide you with the prediction.
+         cd Wine-Quality-Prediction
 
-Additionally, you can explore the Jupyter notebooks named EDA and Model Training in the notebooks directory to understand the data analysis and model development process.
+  - We can manually create files and folders mentioned in the template.py. Also we can Create the template.py files and folders using the command:
 
-Screenshots
-Breast-Cancer-Prediction-Input Breast-Cancer-Prediction-Output
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+         python template.py
 
-Fork the repository.
-Create a new branch for your feature or bug fix: git checkout -b feature-name.
-Make your changes and commit them: git commit -m 'Description of your changes'.
-Push your changes to your fork: git push origin feature-name.
-Create a pull request on the original repository.
 
-Usage
-Once you have the web application running, you can use it to predict the occurence of breast cancer based on the input features. Simply provide the required information, and the application will provide you with the prediction.
+  - Install the required dependencies using pip:
 
-Additionally, you can explore the Jupyter notebooks named EDA and Model Training in the notebooks directory to understand the data analysis and model development process.
+         pip install -r requirements.txt
+    
+  - Run the Flask application:
+
+         python app.py
+
+
+  - Open your web browser and go to given address. Fill the feature values and get the wine quality prediction. 
+
+          http://127.0.0.1:8080
+      
+
+
+## Usage
+ Once you have the web application running, you can use it to predict the quality of wine based on the input features. Simply provide the required information, and the application will provide you with the    prediction.
+
+
+## Contributing
+ Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+  - Fork the repository.
+  - Create a new branch for your feature or bug fix: git checkout -b feature-name.
+  - Make your changes and commit them: git commit -m 'Description of your changes'.
+  - Push your changes to your fork: git push origin feature-name.
+  - Create a pull request on the original repository.
+
+
+
+
