@@ -6,6 +6,16 @@
 
 This repository contains a machine learning project for predicting the quality of Wine using the dataset with 11 features. A Web App is built where you can input some feature values and get the wine quality prediction.
 
+<p align="center">
+  <img width="450" height="600" src="https://github.com/DivyanshKushwaha/Wine-Quality-Prediction/assets/121238698/4bcdc6a9-e8d9-4950-b860-6846b5e5d6de.png">
+</p>
+
+
+
+
+
+
+
 ## About the Dataset
 
 
@@ -144,9 +154,15 @@ This project is organized as follows:
  Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
   - Fork the repository.
-  - Create a new branch for your feature or bug fix: git checkout -b feature-name.
-  - Make your changes and commit them: git commit -m 'Description of your changes'.
-  - Push your changes to your fork: git push origin feature-name.
+  - Create a new branch for your feature or bug fix:
+
+        git checkout -b feature-name.
+  - Make your changes and commit them:
+  
+        git commit -m 'Description of your changes'.
+  - Push your changes to your fork:
+  
+        git push origin feature-name.
   - Create a pull request on the original repository.
 
 
