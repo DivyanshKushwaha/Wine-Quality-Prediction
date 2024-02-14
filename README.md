@@ -1,4 +1,4 @@
-![Screenshot 2024-02-14 140917](https://github.com/DivyanshKushwaha/Wine-Quality-Prediction/assets/121238698/525ae684-ca40-4f58-81c9-823d032e76f7 )
+<p align="center">![Screenshot 2024-02-14 140917](https://github.com/DivyanshKushwaha/Wine-Quality-Prediction/assets/121238698/525ae684-ca40-4f58-81c9-823d032e76f7 )</p>
 
 
 
