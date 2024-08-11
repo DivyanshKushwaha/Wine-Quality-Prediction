@@ -1,5 +1,8 @@
-![Screenshot 2024-02-14 140917](https://github.com/DivyanshKushwaha/Wine-Quality-Prediction/assets/121238698/525ae684-ca40-4f58-81c9-823d032e76f7 )
 
+<dl>
+  <dd> <img src="https://github.com/DivyanshKushwaha/Wine-Quality-Prediction/assets/121238698/c41e32b5-71f2-414a-9552-a7d7b6edd74a.png">
+</dd>
+</dl>
 
 
 <h1 align="center">Wine Quality Prediction</h1>
@@ -21,7 +24,7 @@ This repository contains a machine learning project for predicting the quality o
 
  The Dataset is available on : 
 
-                       https://github.com/DivyanshKushwaha/datasets/blob/master/winequality-data.zip)
+                       https://github.com/DivyanshKushwaha/datasets/blob/master/winequality-data.zip
 
 This dataset have 11 features :
   - fixed acidity
