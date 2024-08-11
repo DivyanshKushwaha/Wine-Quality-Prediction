@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/b22e205588f74cb0b08a65c7a6cf1964/artifacts
+end_time: 1723357918123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b22e205588f74cb0b08a65c7a6cf1964
+run_name: charming-fawn-441
+run_uuid: b22e205588f74cb0b08a65c7a6cf1964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723357909106
+status: 3
+tags: []
+user_id: jatin

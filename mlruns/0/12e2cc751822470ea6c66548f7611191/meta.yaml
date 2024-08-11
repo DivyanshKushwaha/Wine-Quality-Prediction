@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/12e2cc751822470ea6c66548f7611191/artifacts
+end_time: 1723357636728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12e2cc751822470ea6c66548f7611191
+run_name: mercurial-shoat-936
+run_uuid: 12e2cc751822470ea6c66548f7611191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723357629511
+status: 3
+tags: []
+user_id: jatin
