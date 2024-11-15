@@ -31,6 +31,7 @@ list_files= [
     "templates/index.html",
     "test.py",
     "name.py",
+    "vercel.json",
 
 
 ]

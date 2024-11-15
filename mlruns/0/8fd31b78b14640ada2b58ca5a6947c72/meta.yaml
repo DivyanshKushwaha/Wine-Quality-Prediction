@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/8fd31b78b14640ada2b58ca5a6947c72/artifacts
+end_time: 1724330960730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fd31b78b14640ada2b58ca5a6947c72
+run_name: adaptable-stork-705
+run_uuid: 8fd31b78b14640ada2b58ca5a6947c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724330953557
+status: 3
+tags: []
+user_id: jatin
