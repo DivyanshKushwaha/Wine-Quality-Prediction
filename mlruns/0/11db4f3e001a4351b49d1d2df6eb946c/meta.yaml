@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/11db4f3e001a4351b49d1d2df6eb946c/artifacts
+end_time: 1734084997531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11db4f3e001a4351b49d1d2df6eb946c
+run_name: lyrical-roo-546
+run_uuid: 11db4f3e001a4351b49d1d2df6eb946c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734084991803
+status: 3
+tags: []
+user_id: jatin

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/ef6844e8911f47eab13ff364c9f23c79/artifacts
+end_time: 1734085051685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef6844e8911f47eab13ff364c9f23c79
+run_name: respected-ape-703
+run_uuid: ef6844e8911f47eab13ff364c9f23c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734085046539
+status: 3
+tags: []
+user_id: jatin

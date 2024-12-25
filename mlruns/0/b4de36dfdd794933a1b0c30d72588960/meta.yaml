@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/b4de36dfdd794933a1b0c30d72588960/artifacts
+end_time: 1734084189667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4de36dfdd794933a1b0c30d72588960
+run_name: unique-ant-634
+run_uuid: b4de36dfdd794933a1b0c30d72588960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734084181021
+status: 3
+tags: []
+user_id: jatin

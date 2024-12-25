@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/257dc32a424048879f18dedbc1753477/artifacts
+end_time: 1734085025019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 257dc32a424048879f18dedbc1753477
+run_name: nervous-finch-557
+run_uuid: 257dc32a424048879f18dedbc1753477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734085019856
+status: 3
+tags: []
+user_id: jatin

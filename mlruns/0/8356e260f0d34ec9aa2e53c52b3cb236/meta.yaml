@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlproject/Project_MLFlow/mlruns/0/8356e260f0d34ec9aa2e53c52b3cb236/artifacts
+end_time: 1734084937766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8356e260f0d34ec9aa2e53c52b3cb236
+run_name: adorable-lamb-957
+run_uuid: 8356e260f0d34ec9aa2e53c52b3cb236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734084929818
+status: 3
+tags: []
+user_id: jatin
